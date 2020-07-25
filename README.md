@@ -25,4 +25,4 @@ At last, access the repository and open the VS code in it. To do so, you just ha
 $ cd - html-and-css-module
 $ code . 
 ```
-You should be good to go! To navegate at the repository, access `localhost/html-and-css-module.html`
+You should be good to go! To navigate at the repository, access `localhost/html-and-css-module.html`
