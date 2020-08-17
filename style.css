@@ -1,0 +1,22 @@
+h1
+    {font-family: Oswald;
+    font-size:30px;
+    line-height:7px}
+h2
+    {font-family: Oswald;
+    font-size:25px;}
+h3, #tableHeader
+    {font-family: Oswald;
+    font-style: 18px}  
+p,ul
+    {font-family: Montserrat;
+    font-size:16px;
+    line-height: 25px} 
+header, footer, #blueBackground
+    {background-color: rgb(0,70,128);
+    color:rgb(233, 235, 238)}
+body
+    { background-color: rgb(233, 235, 238);
+    color: rgb(97, 103, 113)}
+#tableHeader
+    { text-align: center;}
